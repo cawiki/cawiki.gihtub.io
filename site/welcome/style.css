@@ -1,0 +1,56 @@
+/*titles & headlines*/
+
+.pg-title {
+    display: inline-block;
+    position: relative;
+    font-size: 55px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.pg-title_c {
+    text-align: center;
+}
+
+.pg-title-bg {
+    width: 70%;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+.pg-headline {
+    font-size: 40px;
+    margin-bottom: -25px;
+}
+
+/*informative texts*/
+
+.text-content_c {
+    margin-bottom: -1%;
+}
+
+.text-content {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text-source {
+
+}
+
+.text-note {
+
+}
+
+.text-footnote {
+    font-size: x-small;
+}
+
+/*links*/
+
+/*miscellaneous*/
+
+.br-big {
+    margin-top: 4%;
+}
+.br-small {
+    /*currently unused*/
+}
